@@ -17,6 +17,7 @@
         * In case of packing activity all the data of multiple regular files get stored in single file with all related metadata.
         * In case of unpacking activity the data from the packed file gets extracted in the separate file with all necessary details.
         * We provide Graphical user interface to interact with the application.
+       
 
     Customised Database Management System:
     Technology: C Programming
