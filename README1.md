@@ -4,7 +4,7 @@
        
 
     Customised Database Management System:
-    Technology: C Programming
+    Technology: Java Programming
     Description: 
         * This project provides the emulation of all the facilities and functionalities provided by the Database Management System. 
         * For emulation purpose we create parser to parse the SQL queries.
