@@ -1,21 +1,19 @@
         Customised Database Management System:
         Technology: Java Programming
         Description: 
-        * This project provides the emulation of all the facilities and 
-          functionalities provided by the Database Management System. 
+        * This project provides the emulation of all the facilities and functionalities provided by the Database Management System. 
         * For emulation purpose we create parser to parse the SQL queries.
-        * Each query gets handled explicitly with all constraints and aggregate               functions.
-        * We provide our own customised shell to interact with the customised 
-        database management system
+        * Each query gets handled explicitly with all constraints and aggregate      functions.
+        * We provide our own customised shell to interact with the customised database management system
   
         Customised Virtual File System :
         Technology : C Programming
         Description :
-        * This project provides all functionality to the User which same as Linux             File System.
-        * It provides necessary commands, system calls implmentations of file                 system through customized shell.
-        * In this project we implements all necessary data structure of file system           like Incore Inode Table, file table, UREA, User File descriptor table.
-        * Using this project we can use every system level fuctionality of Linux             operating system on any other operating system platform.
-        * We provide our own customised shell to interact with the custoimised               database management system.
+        * This project provides all functionality to the User which same as Linux File System.
+        * It provides necessary commands, system calls implmentations of file system through customized shell.
+        * In this project we implements all necessary data structure of file system like Incore Inode Table, file table, UREA, User File descriptor table.
+        * Using this project we can use every system level fuctionality of Linux operating system on any other operating system platform.
+        * We provide our own customised shell to interact with the custoimised database management system.
     
         Generalised Data Structures Library:
         Technology: C++ Programming 
