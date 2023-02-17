@@ -3,7 +3,7 @@
         Description: 
         * This project provides the emulation of all the facilities and functionalities provided by the Database Management System. 
         * For emulation purpose we create parser to parse the SQL queries.
-        * Each query gets handled explicitly with all constraints and aggregate      functions.
+        * Each query gets handled explicitly with all constraints and aggregate functions.
         * We provide our own customised shell to interact with the customised database management system
   
         Customised Virtual File System :
@@ -18,15 +18,15 @@
         Generalised Data Structures Library:
         Technology: C++ Programming 
         Description:
-        * This project is considered as a library which contains generic                     implementations of all major types of data structure.
-        * We provide the readymade implementations of all fundamental operations as           well as advanced operations on linear, non linear data strutters in an             object oriented way.
-        * We provide the generic way of implementation so we can use the                     functionality for any type of data types.
+        * This project is considered as a library which contains generic implementations of all major types of data structure.
+        * We provide the readymade implementations of all fundamental operations as well as advanced operations on linear, non linear data strutters in an object oriented way.
+        * We provide the generic way of implementation so we can use the functionality for any type of data types.
         * All the object oriented design policies are used in this project.
     
         File Packer-Unpacker :
         Technology : Java Programming
         Description :
-       * This project provides the facility of packing and unpacking the regular            files. 
-       * In case of packing activity all the data of multiple regular files get              stored in single file with all related metadata.
-       * In case of unpacking activity the data from the packed file gets extracted          in the separate file with all necessary details.
+       * This project provides the facility of packing and unpacking the regular files. 
+       * In case of packing activity all the data of multiple regular files get stored in single file with all related metadata.
+       * In case of unpacking activity the data from the packed file gets extracted in the separate file with all necessary details.
        * We provide Graphical user interface to interact with the application.
