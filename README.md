@@ -30,3 +30,11 @@
        * In case of packing activity all the data of multiple regular files get stored in single file with all related metadata.
        * In case of unpacking activity the data from the packed file gets extracted in the separate file with all necessary details.
        * We provide Graphical user interface to interact with the application.
+
+
+         Automated Duplicate File Deletion and Process Monitoring System with Log Files and Email Reporting:
+         Technology: Python Programming
+         Description:
+       * The Automated Duplicate File Deletion and Process Monitoring System is a sophisticated software solution designed to enhance system performance and organization.
+       * This project combines the functionalities of eliminating duplicate files and monitoring system processes, 
+         while also featuring automated scheduling, log file generation, and email reporting capabilities.
