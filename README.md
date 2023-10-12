@@ -32,8 +32,9 @@
        * We provide Graphical user interface to interact with the application.
 
 
-        Periodic Process Logger with Auto Scheduled Log Report Facility
-        Technology : Python Programming
+         Periodic Process Logger with Auto Scheduled Log Report Facility
+         Technology : Python Programming
+         Description :
         * This Project automate process log facility
         * In this project we craete log file with current time and store information about all running processes as its name, PID, memoryusage,Thread count number of child process.
         * Our automation script executes periodically depends on the time specified by user using scheduler of python
