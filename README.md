@@ -32,9 +32,9 @@
        * We provide Graphical user interface to interact with the application.
 
 
-         Automated Duplicate File Deletion and Process Monitoring System with Log Files and Email Reporting:
-         Technology: Python Programming
-         Description:
-       * The Automated Duplicate File Deletion and Process Monitoring System is a sophisticated software solution designed to enhance system performance and organization.
-       * This project combines the functionalities of eliminating duplicate files and monitoring system processes, 
-         while also featuring automated scheduling, log file generation, and email reporting capabilities.
+        Periodic Process Logger with Auto Scheduled Log Report Facility
+        Technology : Python Programming
+        * This Project automate process log facility
+        * In this project we craete log file with current time and store information about all running processes as its name, PID, memoryusage,Thread count number of child process.
+        * Our automation script executes periodically depends on the time specified by user using scheduler of python
+        * After periodic execution it sends the log file to the specified email address.
